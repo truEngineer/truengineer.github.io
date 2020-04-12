@@ -22,8 +22,7 @@ description: A virtual proof that I'm awesome
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - NII: "https://etu.ru/ru/nii-prognoz/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -114,7 +113,7 @@ google_analytics: "UA-162271521-1"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-# disqus: ""
+disqus: truengineer
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
