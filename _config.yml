@@ -59,17 +59,10 @@ social-network-links:
   github: truEngineer
 #  email: "user@example.com"
 #  reddit: yourname
-#  linkedin: username
-#  xing: yourname
 #  stackoverflow: "id/username"
-#  snapchat: username
 #  instagram: username
 #  youtube: user/username
-#  spotify: yourname
 #  telephone: +1234567890
-#  steam: username
-#  twitch: yourname
-#  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
@@ -78,7 +71,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "truengineer.github.io"
+#url-pretty: "truengineer.github.io"
 
 # --- Web Statistics Section --- #
 
@@ -219,6 +212,7 @@ prose:
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
 
+url: "https://truengineer.github.io"
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
