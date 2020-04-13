@@ -4,17 +4,7 @@
 title: truEngineer
 
 # Short description of your site
-description: A virtual proof that I'm awesome
-
-# --- Local development options ---
-# If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
-# *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
-
-# url is the the website domain URL without a trailing slash
-#url: "https://example.com"
-
-# baseurl should be an empty string
-#baseurl: ""
+description: Russian field of experiments
 
 # --- Navigation bar options --- #
 
@@ -67,17 +57,17 @@ author:
 social-network-links:
   rss: true
   github: truEngineer
-#  email: "someone@example.com"
+#  email: "user@example.com"
 #  reddit: yourname
-#  linkedin: daattali
+#  linkedin: username
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
+#  stackoverflow: "id/username"
+#  snapchat: username
+#  instagram: username
+#  youtube: user/username
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  telephone: +1234567890
+#  steam: username
 #  twitch: yourname
 #  yelp: yourname
 
@@ -88,7 +78,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "MyWebsite.com"  # eg. "habr.com/ru/"
 
 # --- Web Statistics Section --- #
 
@@ -243,6 +233,3 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
