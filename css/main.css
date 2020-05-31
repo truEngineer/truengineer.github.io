@@ -786,3 +786,8 @@ pre {
   font-style: italic;
   font-size: 16px;
 }
+
+/* Blocks horizontal wrapping */
+.x-wrapper {
+  overflow-x: scroll;
+}
